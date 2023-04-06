@@ -46,10 +46,10 @@ class Config:
     SUPPORT_CHANNEL = config("SUPPORT_CHANNEL", default="gojo_bots_network")
     VERSION = config("VERSION", default="v2.0")
     WORKERS = int(config("WORKERS", default=16))
-    BOT_USERNAME = ""
-    BOT_ID = ""
-    BOT_NAME = ""
-    owner_username = ""
+    BOT_USERNAME = "AzernRobot"
+    BOT_ID = "5909284642"
+    BOT_NAME = "Azern Robot"
+    owner_username = "SwapnoXD"
 
 
 class Development:
