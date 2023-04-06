@@ -61,9 +61,9 @@ class Development:
     API_ID = 12308732  # Your APP_ID from Telegram
     API_HASH = "a28b981438bfc9bb921563cf09bc4951"  # Your APP_HASH from Telegram
     OWNER_ID = 1626505310  # Your telegram user id defult to mine
-    MESSAGE_DUMP = -100  # Your Private Group ID for logs
+    MESSAGE_DUMP = -1001969675336  # Your Private Group ID for logs
     DEV_USERS = []
-    SUDO_USERS = [1906306037]
+    SUDO_USERS = [1626505310]
     WHITELIST_USERS = []
     DB_URI = "mongodb+srv://Lovely:LovelyMusic@lovely.zmqfspr.mongodb.net/?retryWrites=true&w=majority"  # Your mongo DB URI
     DB_NAME = "Lovely"  #
